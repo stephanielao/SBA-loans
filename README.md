@@ -6,5 +6,9 @@ Our overall objectives were to determine what factors tend to cause a loan to be
 
 Our data analysis consisted of analyzing columns such as industry, approval year, term, and bank. We found that these columns were important in determining defaultness. We then created an XGBoost model to predict which approved loans will default.
 
-You can visit the Kaggle link below to download the dataset.
+You can visit the Kaggle link to download the dataset.
 https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
+
+Moreover, our LinkedIn article can be read at https://www.linkedin.com/posts/stephanie-lao-5a43151b3_activity-6719169950839300096-MvZj.
+
+Analysis done by Stephanie Lao, Morgan Allen, Marisol Mondragon, Katalina Rubio
